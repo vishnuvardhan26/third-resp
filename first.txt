@@ -1,3 +1,7 @@
 first file
 modified in the newbranch
+<<<<<<< HEAD
 modified from git bash
+=======
+added  a line on the github
+>>>>>>> 07ba5ebee682c441a1c61f4e76a97c3b40469da2
